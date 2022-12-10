@@ -1,7 +1,10 @@
 import { defineConfig } from "vitepress";
 
+const base = process.env.BASE || '/'
+
 // --vp-code-block-bg
 export default defineConfig({
+  base,
   title: "VitePress",
   markdown: {
     theme: {
