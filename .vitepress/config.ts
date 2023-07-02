@@ -5,7 +5,7 @@ const base = process.env.BASE || '/'
 // --vp-code-block-bg
 export default defineConfig({
   base,
-  title: "VitePress",
+  title: "VitePress123",
   markdown: {
     theme: {
       light: "vitesse-light",
@@ -14,7 +14,7 @@ export default defineConfig({
   },
   themeConfig: {
     logo: "/cat.png",
-    siteTitle: "VitePress",
+    siteTitle: "VitePress-dev-zuo",
 
     nav: [
       { text: "Guide", link: "/guide/" },

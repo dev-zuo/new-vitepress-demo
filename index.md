@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: VitePress-Demo
-  text: VitePress模板
-  tagline: This is an empty template...
+  name: VitePress-Demo-dev-zuo
+  text: VitePress模板-dev-zuo
+  tagline: This is an empty template...-dev-zuo
   image:
     src: /cat.png
     # src: /vue-logo.png
